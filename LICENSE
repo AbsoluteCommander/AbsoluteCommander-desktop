@@ -1,4 +1,25 @@
-                    GNU GENERAL PUBLIC LICENSE
+==============================================================================
+
+The code from created and edited in this repository is governed by GNU GENERAL
+PUBLIC LICENSE Version 3(or newer at your choice).
+
+Code that will be implemented in for building the build stage app (including
+compiling, testing, publication of the compiled application on internet
+or other publication sources) from the other repositories available from
+github organization AbsoluteCommander and other sources will respect those
+licenses, and if the used repository license will make possible the
+relicensing, the forked resource of that repository will be relicensed to
+GNU GENERAL PUBLIC LICENSE Version 3(or newer at your choice).
+The other repositories owned by github organization AbsoluteCommander have
+their licenses publicated in the chosen repository.
+
+LIST OF IMPLEMENTED REPOSITORIES THAT CAN AND WILL RELICENSE WHEN REACHING
+BUILD STAGE OF AbsoluteCommander-desktop REPOSITORY:
+- 
+
+==============================================================================
+
+                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
