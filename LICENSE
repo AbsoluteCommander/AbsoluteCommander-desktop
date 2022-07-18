@@ -13,6 +13,11 @@ GNU GENERAL PUBLIC LICENSE Version 3(or newer at your choice).
 The other repositories owned by github organization AbsoluteCommander have
 their licenses publicated in the chosen repository.
 
+The final result, including the binary release and full source code release
+will be a mix of the GNU GENERAL PUBLIC LICENSE Version 3(or newer at your 
+choice) plus the other licenses from other sources used for building
+this program.
+
 LIST OF IMPLEMENTED REPOSITORIES THAT CAN AND WILL RELICENSE WHEN REACHING
 BUILD STAGE OF AbsoluteCommander-desktop REPOSITORY:
 - 
